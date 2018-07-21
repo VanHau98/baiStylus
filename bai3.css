@@ -1,0 +1,107 @@
+.container-fluid .phong {
+  height: 350px;
+}
+.container-fluid .phong .box1 {
+  float: left;
+  height: 100%;
+}
+.container-fluid .phong .box1 img {
+  width: 100%;
+  height: 70%;
+  margin-top: 10%;
+  -webkit-transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  transition: 0.5s ease;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.container-fluid .phong .box1 img:hover {
+  opacity: 0.5;
+}
+.container-fluid .phong .box2 {
+  height: 100%;
+  float: left;
+}
+.container-fluid .phong .box2 .box21 {
+  height: 30%;
+  width: 100%;
+  margin-top: 2%;
+}
+.container-fluid .phong .box2 .box21 .so {
+  margin: 0;
+  width: 19%;
+  height: 60%;
+  border-radius: 50%;
+  margin-top: 5%;
+  margin-left: 2%;
+  border: 3px solid #dba901;
+}
+.container-fluid .phong .box2 .box21 .so p {
+  display: block;
+  width: 90%;
+  height: 90%;
+  background: #dba901;
+  text-align: center;
+  padding-top: 20%;
+  margin: 0 auto;
+  margin-top: 5%;
+  border-radius: 50%;
+}
+.container-fluid .phong .box2 .box21 .chu {
+  float: left;
+  width: 78%;
+  height: 100%;
+}
+.container-fluid .phong .box2 .box21 .chu h4 {
+  margin-left: 8%;
+}
+.container-fluid .phong .box2 .box21 .chu p {
+  margin-left: 8%;
+  font-size: 90%;
+}
+.container-fluid .phong .box3 {
+  float: left;
+  height: 100%;
+}
+.container-fluid .phong .box3 .box31 {
+  height: 50%;
+}
+.container-fluid .phong .box3 .box31 a {
+  text-decoration: none;
+}
+.container-fluid .phong .box3 .box31 a img {
+  width: 90%;
+  height: 90%;
+  margin: 2.5% 5% 2.5% 5%;
+  -webkit-transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  transition: 0.5s ease;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.container-fluid .phong .box3 .box31 a img:hover {
+  opacity: 0.5;
+}
+.container-fluid .phong .box3 .box32 {
+  float: left;
+  width: 50%;
+  height: 50%;
+}
+.container-fluid .phong .box3 .box32 a {
+  text-decoration: none;
+}
+.container-fluid .phong .box3 .box32 a img {
+  width: 90%;
+  height: 90%;
+  margin: 5% 5% 5% 5%;
+  -webkit-transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  transition: 0.5s ease;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.container-fluid .phong .box3 .box32 a img:hover {
+  opacity: 0.5;
+}
+
+/*# sourceMappingURL=bai3.css.map */
